@@ -55,7 +55,7 @@ Mes projets sont réalisés sur mon temps libre et continueront à évoluer grâ
 ## Me retrouver
 
 * GitHub : [Saurusius](https://github.com/Saurusius)
-* Ko-fi : [Soutenir mes projets](https://ko-fi.com/TON_IDENTIFIANT)
+* Ko-fi : [Soutenir mes projets](https://ko-fi.com/Saurusius)
 
 ---
 
