@@ -8,10 +8,7 @@ Mon objectif : transformer des idées de campagne en projets interactifs, access
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-333333?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-333333?logo=typescript)
-![Foundry VTT](https://img.shields.io/badge/Foundry_VTT-333333)
 ![Next.js](https://img.shields.io/badge/Next.js-333333?logo=nextdotjs)
-![GitHub](https://img.shields.io/badge/GitHub-333333?logo=github)
-![Pathfinder 2e](https://img.shields.io/badge/Pathfinder_2e-333333)
 
 ## Mes projets
 
