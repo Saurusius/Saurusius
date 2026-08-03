@@ -4,6 +4,15 @@ Je crée des outils, des modules et des expériences de jeu autour de **Pathfind
 
 Mon objectif : transformer des idées de campagne en projets interactifs, accessibles et agréables à utiliser en partie.
 
+## Technologies utilisées
+
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-333333?logo=typescript)
+![Foundry VTT](https://img.shields.io/badge/Foundry_VTT-333333)
+![Next.js](https://img.shields.io/badge/Next.js-333333?logo=nextdotjs)
+![GitHub](https://img.shields.io/badge/GitHub-333333?logo=github)
+![Pathfinder 2e](https://img.shields.io/badge/Pathfinder_2e-333333)
+
 ## Mes projets
 
 ### 🃏 Le Jeu des Six Couronnes
@@ -39,15 +48,6 @@ Elle permet de gérer des personnages, des projets de fabrication et les princip
 * Contenus pour campagnes Kingmaker
 * Illustrations et supports de jeu
 * Expériences narratives et mini-jeux
-
-## Technologies utilisées
-
-![JavaScript](https://img.shields.io/badge/JavaScript-333333?logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-333333?logo=typescript)
-![Foundry VTT](https://img.shields.io/badge/Foundry_VTT-333333)
-![Next.js](https://img.shields.io/badge/Next.js-333333?logo=nextdotjs)
-![GitHub](https://img.shields.io/badge/GitHub-333333?logo=github)
-![Pathfinder 2e](https://img.shields.io/badge/Pathfinder_2e-333333)
 
 ## Soutenir mes créations
 
