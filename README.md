@@ -42,6 +42,14 @@ Il est pensé pour les mondes communautaires ou les tables disposant de plusieur
 
 [Découvrir le projet](https://github.com/Saurusius/foundry-guardian)
 
+### 📻 Foundry FM
+
+Foundry FM est un lecteur YouTube intégré à Foundry Virtual Tabletop V14 pensé pour diffuser facilement de la musique à une table de jeu.
+
+Le MJ pilote la diffusion globale tandis que chaque joueur dispose d'un lecteur simplifié avec ses propres préférences de volume, de couleur, de position et d'affichage.
+
+[Découvrir le projet](https://github.com/Saurusius/foundry-fm)
+
 ### 🔨 Forgeflow PF2e
 
 Une application web consacrée à l’artisanat dans **Pathfinder 2e**.
