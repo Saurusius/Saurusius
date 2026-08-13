@@ -60,7 +60,7 @@ Elle permet de gérer des personnages, des projets de fabrication et les princip
 
 Mes projets sont réalisés sur mon temps libre et continueront à évoluer grâce aux retours de la communauté.
 
-[![Soutenez-moi sur Ko-fi](https://img.shields.io/badge/Ko--fi-Soutenir_mes_projets-333333?logo=kofi)](https://github.com/Saurusius)
+[![Soutenez-moi sur Ko-fi](https://img.shields.io/badge/Ko--fi-Soutenir_mes_projets-333333?logo=kofi)](https://ko-fi.com/Saurusius)
 
 ## Me retrouver
 
