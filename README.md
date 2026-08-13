@@ -6,6 +6,7 @@ Mon objectif : transformer des idées de campagne en projets interactifs, access
 
 ## Technologies utilisées
 
+![Python](https://img.shields.io/badge/Python-333333?logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-333333?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-333333?logo=typescript)
 ![Next.js](https://img.shields.io/badge/Next.js-333333?logo=nextdotjs)
