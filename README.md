@@ -31,6 +31,16 @@ Un mini-jeu de pêche pour Foundry VTT, pensé pour s’intégrer naturellement 
 
 Il comprend plusieurs zones de pêche, des poissons rares, des boss, une progression de profil et différents talents.
 
+[Découvrir le projet](https://github.com/Saurusius/hamecons-et-couronnes)
+
+### 🛡️ Foundry Guardian
+
+Un module qui permet de réserver les réglages sensibles de Foundry VTT à certains comptes explicitement autorisés.
+
+Il est pensé pour les mondes communautaires ou les tables disposant de plusieurs MJ : les MJ peuvent continuer à maîtriser normalement, tandis que les réglages administratifs importants restent réservés aux profils choisis.
+
+[Découvrir le projet](https://github.com/Saurusius/foundry-guardian)
+
 ### 🔨 Forgeflow PF2e
 
 Une application web consacrée à l’artisanat dans **Pathfinder 2e**.
