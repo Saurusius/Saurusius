@@ -59,4 +59,4 @@ Mes projets sont réalisés sur mon temps libre et continueront à évoluer grâ
 
 ---
 
-*Des couronnes, des cartes, des poissons et probablement beaucoup trop de fenêtres Foundry.*
+*Café, monster, le petit déjeuner des champions.*
