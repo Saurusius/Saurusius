@@ -4,6 +4,10 @@ Je crée des outils, des modules et des expériences de jeu autour de **Pathfind
 
 Mon objectif : transformer des idées de campagne en projets interactifs, accessibles et agréables à utiliser en partie.
 
+## 📈 Activité GitHub
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Saurusius&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## Technologies utilisées
 
 ![Python](https://img.shields.io/badge/Python-333333?logo=python)
