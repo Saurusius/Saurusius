@@ -6,7 +6,7 @@ Mon objectif : transformer des idées de campagne en projets interactifs, access
 
 ## 📈 Activité GitHub
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Saurusius&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Saurusius&bg_color=17130f&color=c9b68c&title_color=e0c06c&line=b58b45&point=f0d98c&area=true&area_color=6f5329&border_color=5a4528&radius=8&custom_title=Chroniques%20de%20Saurusius)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Technologies utilisées
 
