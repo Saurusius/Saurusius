@@ -4,12 +4,6 @@ Je crée des outils, des modules et des applications autour du **jeu de rôle**,
 
 Mon objectif : transformer des idées de jeu, d’interface ou de communauté en projets concrets, agréables à utiliser et pensés pour les joueurs comme pour les MJ.
 
-## 📈 Activité GitHub
-
-![Saurusius GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saurusius&show_icons=true&hide_border=true&bg_color=17130f&title_color=e0c06c&text_color=c9b68c&icon_color=b58b45)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurusius&layout=compact&hide_border=true&bg_color=17130f&title_color=e0c06c&text_color=c9b68c)
-
 ## 🧰 Technologies utilisées
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-333333?logo=javascript)
