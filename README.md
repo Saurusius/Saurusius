@@ -15,22 +15,6 @@ Mon objectif : transformer des idées de jeu, d’interface ou de communauté en
 
 ## 🚀 Projets récents
 
-### 🌐 Ravel Hub
-
-Une application pensée comme un véritable **hub communautaire Ravel**, distinct du Codex et orienté vers une expérience proche d’un launcher ou d’une plateforme de jeu.
-
-Objectifs principaux :
-
-* centraliser les accès aux différents services Ravel
-* proposer des fonctions communautaires simples
-* gérer des inscriptions et profils de personnages
-* intégrer des outils pratiques comme un calendrier
-* servir de point d’entrée web et mobile à l’écosystème Ravel
-
-[Découvrir le projet](https://github.com/Saurusius/ravel-hub)
-
----
-
 ### 🚪 Ravel Launcher
 
 Un launcher dédié à l’écosystème **Ravel**, conçu pour permettre aux joueurs de rejoindre facilement les serveurs de jeu.
