@@ -1,81 +1,161 @@
 # Bienvenue dans mon atelier 👑
 
-Je crée des outils, des modules et des expériences de jeu autour de **Pathfinder 2e**, **Foundry Virtual Tabletop** et des univers de fantasy.
+Je crée des outils, des modules et des applications autour du **jeu de rôle**, de **Foundry Virtual Tabletop**, de **Pathfinder 2e** et de projets plus larges liés à l’écosystème **Ravel**.
 
-Mon objectif : transformer des idées de campagne en projets interactifs, accessibles et agréables à utiliser en partie.
+Mon objectif : transformer des idées de jeu, d’interface ou de communauté en projets concrets, agréables à utiliser et pensés pour les joueurs comme pour les MJ.
 
 ## 📈 Activité GitHub
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Saurusius&bg_color=17130f&color=c9b68c&title_color=e0c06c&line=b58b45&point=f0d98c&area=true&area_color=6f5329&border_color=5a4528&radius=8&custom_title=Chroniques%20de%20Saurusius)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## Technologies utilisées
+## 🧰 Technologies utilisées
 
-![Python](https://img.shields.io/badge/Python-333333?logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-333333?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-333333?logo=typescript)
 ![Next.js](https://img.shields.io/badge/Next.js-333333?logo=nextdotjs)
+![Python](https://img.shields.io/badge/Python-333333?logo=python)
+![Foundry VTT](https://img.shields.io/badge/Foundry_VTT-333333)
+![GitHub](https://img.shields.io/badge/GitHub-333333?logo=github)
 
-## Mes projets
+## 🚀 Projets récents
+
+### 🌐 Ravel Hub
+
+Une application pensée comme un véritable **hub communautaire Ravel**, distinct du Codex et orienté vers une expérience proche d’un launcher ou d’une plateforme de jeu.
+
+Objectifs principaux :
+
+* centraliser les accès aux différents services Ravel
+* proposer des fonctions communautaires simples
+* gérer des inscriptions et profils de personnages
+* intégrer des outils pratiques comme un calendrier
+* servir de point d’entrée web et mobile à l’écosystème Ravel
+
+[Découvrir le projet](https://github.com/Saurusius/ravel-hub)
+
+---
+
+### 🚪 Ravel Launcher
+
+Un launcher dédié à l’écosystème **Ravel**, conçu pour permettre aux joueurs de rejoindre facilement les serveurs de jeu.
+
+Le projet prévoit notamment :
+
+* gestion de plusieurs serveurs
+* connexion joueur ou MJ
+* interface configurable
+* personnalisation visuelle
+* liens avec les autres outils Ravel
+
+Projet indépendant du Codex, mais pensé pour fonctionner en complément de celui-ci.
+
+---
+
+## 🎲 Modules et outils Foundry VTT
 
 ### 🃏 Le Jeu des Six Couronnes
 
-Un jeu de cartes tactique pour **Foundry VTT**, jouable en solo ou en PvP, inspiré des Terres Dérobées et de l’univers de Kingmaker.
+Un jeu de cartes tactique complet pour **Foundry VTT**, jouable en solo ou en PvP, inspiré de l’univers de Kingmaker.
 
-* Construction et gestion de decks
-* Collection de cartes par profil
-* Boosters, boutique et monnaie
-* Sortilèges emblématiques
-* Combats sur trois lignes
-* Modes solo et multijoueur
+Fonctionnalités principales :
+
+* combats tactiques sur trois lignes
+* construction et gestion de decks
+* collection de cartes par profil
+* boosters et boutique
+* monnaie dédiée
+* sortilèges et cartes uniques
+* modes solo et multijoueur
 
 [Découvrir le projet](https://github.com/Saurusius/six-crowns-kingmaker-card-game)
 
+---
+
 ### 🎣 Hameçons & Couronnes
 
-Un mini-jeu de pêche pour Foundry VTT, pensé pour s’intégrer naturellement à une campagne de fantasy.
+Un mini-jeu de pêche complet pour **Foundry VTT**, conçu pour s’intégrer dans une campagne de fantasy.
 
-Il comprend plusieurs zones de pêche, des poissons rares, des boss, une progression de profil et différents talents.
+Il comprend notamment :
+
+* de nombreuses zones de pêche
+* plus de 100 espèces
+* raretés et difficultés variables
+* progression par profil
+* arbres de talents
+* poissons boss
+* gestion jour / nuit
+* catalogue de captures
 
 [Découvrir le projet](https://github.com/Saurusius/hamecons-et-couronnes)
 
-### 🛡️ Foundry Guardian
-
-Un module qui permet de réserver les réglages sensibles de Foundry VTT à certains comptes explicitement autorisés.
-
-Il est pensé pour les mondes communautaires ou les tables disposant de plusieurs MJ : les MJ peuvent continuer à maîtriser normalement, tandis que les réglages administratifs importants restent réservés aux profils choisis.
-
-[Découvrir le projet](https://github.com/Saurusius/foundry-guardian)
+---
 
 ### 📻 Foundry FM
 
-Foundry FM est un lecteur YouTube intégré à Foundry Virtual Tabletop V14 pensé pour diffuser facilement de la musique à une table de jeu.
+Un lecteur YouTube intégré à **Foundry Virtual Tabletop V14**.
 
-Le MJ pilote la diffusion globale tandis que chaque joueur dispose d'un lecteur simplifié avec ses propres préférences de volume, de couleur, de position et d'affichage.
+Le MJ contrôle la diffusion globale tandis que chaque joueur dispose de ses propres préférences :
+
+* volume
+* position
+* couleur
+* affichage
+* playlists
+* lecture en boucle
 
 [Découvrir le projet](https://github.com/Saurusius/foundry-fm)
+
+---
+
+### 🛡️ Foundry Guardian
+
+Un module de sécurisation de Foundry VTT permettant de réserver certains réglages sensibles à des profils explicitement autorisés.
+
+Pensé pour les mondes communautaires ou les tables utilisant plusieurs MJ.
+
+[Découvrir le projet](https://github.com/Saurusius/foundry-guardian)
+
+---
+
+## ⚒️ Pathfinder 2e
 
 ### 🔨 Forgeflow PF2e
 
 Une application web consacrée à l’artisanat dans **Pathfinder 2e**.
 
-Elle permet de gérer des personnages, des projets de fabrication et les principales règles liées aux compétences et aux niveaux de maîtrise.
+Elle permet notamment de :
 
-## Ce que je crée
+* gérer des personnages
+* créer et suivre des projets de fabrication
+* utiliser les niveaux de maîtrise PF2e
+* appliquer les règles d’artisanat
+* exploiter les données d’équipement du système PF2e
 
-* Modules pour Foundry VTT
-* Outils pour Pathfinder 2e
-* Interfaces de jeux de rôle
-* Contenus pour campagnes Kingmaker
-* Illustrations et supports de jeu
-* Expériences narratives et mini-jeux
+[Découvrir le projet](https://github.com/Saurusius/forgeflow-pf2e)
 
-## Soutenir mes créations
+---
 
-Mes projets sont réalisés sur mon temps libre et continueront à évoluer grâce aux retours de la communauté.
+## 🧪 Autres expérimentations
+
+Je développe régulièrement de petits projets autour de :
+
+* mini-jeux pour Foundry VTT
+* interfaces de jeu de rôle
+* outils pour MJ et joueurs
+* expériences narratives
+* applications web
+* prototypes inspirés de jeux rétro
+* intégrations communautaires
+
+J’aime surtout transformer une idée un peu débile lancée à 2h du matin en véritable projet fonctionnel le lendemain. Ce qui est probablement une mauvaise méthode de gestion de projet, mais étonnamment efficace.
+
+## ☕ Soutenir mes créations
+
+Mes projets sont développés sur mon temps libre et évoluent grâce aux retours des joueurs et de la communauté.
 
 [![Soutenez-moi sur Ko-fi](https://img.shields.io/badge/Ko--fi-Soutenir_mes_projets-333333?logo=kofi)](https://ko-fi.com/Saurusius)
 
-## Me retrouver
+## 🔗 Me retrouver
 
 * GitHub : [Saurusius](https://github.com/Saurusius)
 * Ko-fi : [Soutenir mes projets](https://ko-fi.com/Saurusius)
