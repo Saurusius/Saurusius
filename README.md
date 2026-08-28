@@ -6,7 +6,9 @@ Mon objectif : transformer des idées de jeu, d’interface ou de communauté en
 
 ## 📈 Activité GitHub
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Saurusius&bg_color=17130f&color=c9b68c&title_color=e0c06c&line=b58b45&point=f0d98c&area=true&area_color=6f5329&border_color=5a4528&radius=8&custom_title=Chroniques%20de%20Saurusius)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Saurusius GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saurusius&show_icons=true&hide_border=true&bg_color=17130f&title_color=e0c06c&text_color=c9b68c&icon_color=b58b45)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurusius&layout=compact&hide_border=true&bg_color=17130f&title_color=e0c06c&text_color=c9b68c)
 
 ## 🧰 Technologies utilisées
 
